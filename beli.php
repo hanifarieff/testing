@@ -22,6 +22,5 @@ else
 //echo "</pre>";
 
 //larikan ke halaman keranjang
-echo "<script>alert('produk telah masuk kedalam keranjang belanja');</script>";
 echo "<script>location='keranjang.php';</script>";
 ?>
