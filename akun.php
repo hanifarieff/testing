@@ -14,8 +14,7 @@ session_start();
     <link href="assets/css/font-awesome.min.css" rel="stylesheet" />
     <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link href="assets/ItemSlider/css/main-style.css" rel="stylesheet" />
-    <link href="assets/css/style.css" rel="stylesheet" />
-    <link href="style.css" rel="stylesheet">
+
 
 </head>
 <body>
