@@ -1,7 +1,6 @@
 <?php
 session_start();
 //mendapatkan id_produk dari url
-$id_produk = $_GET['id'];
 
 
 // jika sudah ada produk itu dikeranjang, maka produk itu jumlahnya +1
